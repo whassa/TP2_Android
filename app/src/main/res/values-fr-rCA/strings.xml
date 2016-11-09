@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TShirt</string>
+    <string name="choose_your_t_shirt">Choisis ton T-Shirt</string>
+    <string name="choose_your_color">Choisis ta couleur</string>
+    <string name="create_a_android_t_shirt">Chosisi ton Android T-Shirt</string>
+    <string name="man">Homme</string>
+    <string name="woman">Femme</string>
+    <string name="white">Blanc</string>
+    <string name="red">Rouge</string>
+    <string name="blue">Bleu</string>
+    <string name="yellow">Jaune</string>
+    <string name="choose_your_size">Choisis ta taille</string>
+    <string name="small">Petit</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="xlarge">XLarge</string>
+    <string name="you_can_add_on_the_front">Tu peux ajouter devant</string>
+    <string name="an_android_text">Un text Android </string>
+    <string name="an_android_logo">Un logo Android </string>
+    <string name="viewfront">Vu de front</string>
+    <string name="save">Sauvegarder</string>
+    <string name="restore">Reprendre</string>
+    <string name="cancel">Annule</string>
+</resources>

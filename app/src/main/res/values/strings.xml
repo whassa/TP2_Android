@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TShirt</string>
+    <string name="choose_your_t_shirt">Choose your T-Shirt</string>
+    <string name="choose_your_color">Choose your color</string>
+    <string name="create_a_android_t_shirt">Create a Android T-Shirt</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="white">White</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="choose_your_size">Choose your size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="xlarge">XLarge</string>
+    <string name="you_can_add_on_the_front">You can add on the front</string>
+    <string name="an_android_text">An Android text</string>
+    <string name="an_android_logo">An Android logo</string>
+    <string name="viewfront">ViewFront</string>
+    <string name="save">Save</string>
+    <string name="restore">Restore</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved">Saved</string>
+    <string name="savedFailed">The save has fail</string>
+    <string name="restored">Restored</string>
+    <string name="restoredFailed">The restoration has fail</string>
+    <string name="canceled">Canceled</string>
+    <string name="image_texte">Android</string>
+</resources>
